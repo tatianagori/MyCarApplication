@@ -27,5 +27,5 @@ Could do:
 
 
 Won't do:
-- have a bluetooth live connection with the car 
+- have a live bluetooth connection with the car 
 - advert about traffic information such as speed limits and congestions
