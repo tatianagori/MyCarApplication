@@ -2,8 +2,9 @@
 
 This application is intented for users with personal cars to check details about their cars, such as when to change oil, tires, water, filters, do inspection and much more.
 This will help, especially drivers with little to no car experience to be safe and keep their cars in good condition. 
+The idea behind this application came up beacuse as a driver myself, it is hard to keep up with everything that I need to keep in mind when owning a car and many times it came up that I wore out car parts to the point where it was not save to drive anymore, and as I spoke with other drivers, I realized there are many others with the same issue that could be solved easily just by creating an application where everything is stored and organized in a way that makes our lives easier.
 
-MoSCoW prioritez requirements
+MoSCoW prioritezed requirements
 
 Must do:
 - have several car models available where the user can select theirs
