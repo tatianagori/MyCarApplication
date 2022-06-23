@@ -1,13 +1,5 @@
 # MyCarApplication
 
-Link to the video: 
-https://youtu.be/bMV2ZLbY4VY
-
--- UPDATE -- I had some issues with my application towards the end and I did not manage to fix the errors, I had Invocation target exceptions that I could not identify,
-therefore I could not
-demonstrate my application in the video. However, I created another simple application with the same layout, fragments and activities, with the sole purpose of having content
-and demonstrate 
-what my application was supposed to do and better talk about its functionalities. -- UPDATE -- 
 
 This application is intented for users with personal cars to check details about their cars, such as when to change oil, tires, water, filters, do inspection and much more.
 This will help, especially drivers with little to no car experience to be safe and keep their cars in good condition. 
